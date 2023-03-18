@@ -7,7 +7,7 @@ Servo-motor-device-driver is a Linux device driver for controlling a servo motor
 To build and install the driver, follow these steps:
 
 Clone the repository to your  machine
-Change to the driver directory: cd <driver directory>
+Change to the driver directory
 
 **Manualy:**
 
